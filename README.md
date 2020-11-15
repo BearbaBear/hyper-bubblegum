@@ -1,7 +1,7 @@
 # hyper-bubblegum
-a ~~detrimentally~~ minimalist, bright pink theme for the [Hyper](http://hyper.is/) terminal
+a ~~detrimentally~~ minimalist, bright pink theme for the [Hyper](http://hyper.is/) terminal.
 
-does away with useless pieces of ui such as window titles and scroll bars, leaving you with the cleanest terminal possible
+does away with useless pieces of ui such as window titles and scroll bars, leaving you with the cleanest terminal possible.
 
 ![](screenshot.png)
 
@@ -16,7 +16,7 @@ plugins: [
   'hyper-bubblegum'
 ],
 ```
-the theme will be automatically installed by Hyper upon reloading
+the theme will be automatically installed by Hyper upon reloading.
 
 ## extras
 for my terminal setup i use the following:

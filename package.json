@@ -1,7 +1,7 @@
 
 {
   "name": "hyper-bubblegum",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a minimalist bright pink theme for the Hyper terminal",
   "main": "index.js",
   "repository": {
