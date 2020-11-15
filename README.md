@@ -16,7 +16,7 @@ plugins: [
   'hyper-bubblegum'
 ],
 ```
-3. the theme will be automatically installed by Hyper upon reloading
+the theme will be automatically installed by Hyper upon reloading
 
 ## extras
 for my terminal setup i use the following:
