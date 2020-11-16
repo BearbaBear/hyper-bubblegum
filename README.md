@@ -1,5 +1,5 @@
 # hyper-bubblegum
-a ~~detrimentally~~ minimalist, bright pink theme for the [Hyper](http://hyper.is/) terminal.
+a deliciously minimalist bright pink theme for the [Hyper](http://hyper.is/) terminal.
 
 does away with useless pieces of ui such as window titles and scroll bars, leaving you with the cleanest terminal possible.
 
@@ -22,7 +22,7 @@ the theme will be automatically installed by Hyper upon reloading.
 for my terminal setup i use the following:
 * the [Zsh](www.zsh.org) shell
 * [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/)
-* my custom Oh My Zsh theme (currently unpublished)
+* my custom Oh My Zsh theme [bubblegum-zsh](https://github.com/ice-bear-forever/bubblegum-zsh)
 
 ## license
 copyright (C) 2020 bear

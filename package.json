@@ -1,12 +1,12 @@
 
 {
   "name": "hyper-bubblegum",
-  "version": "0.0.2",
-  "description": "a minimalist bright pink theme for the Hyper terminal",
+  "version": "0.0.3",
+  "description": "a deliciously minimalist bright pink theme for the Hyper terminal",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BearbaBear/hyper-bubblegum.git"
+    "url": "https://github.com/ice-bear-forever/hyper-bubblegum.git"
   },
   "keywords": [
     "hyper",
