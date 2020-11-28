@@ -25,8 +25,6 @@ for my terminal setup i use the following:
 * my custom Oh My Zsh theme [bubblegum-zsh](https://github.com/ice-bear-forever/bubblegum-zsh)
 
 ## license
-copyright (C) 2020 bear
-
-released under the GNU Affero General Public License v3
-
-see [LICENSE](LICENSE) for details
+copyright (c) 2020 bear.
+released under the GNU Affero General Public License v3.
+see [LICENSE](LICENSE) for details.
